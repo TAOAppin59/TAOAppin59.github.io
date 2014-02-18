@@ -2,16 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d109c6e-c5e3-49cc-8c6c-ea8ed96ec2f2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/carousel.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cover.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/docs.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/starter.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/TAOAppin59.github.io.iml" afterPath="$PROJECT_DIR$/.idea/TAOAppin59.github.io.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="TAOAppin59.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="5d109c6e-c5e3-49cc-8c6c-ea8ed96ec2f2" time="1392668425496" ignored="false" />
-    <file path="/index.html" changelist="5d109c6e-c5e3-49cc-8c6c-ea8ed96ec2f2" time="1392679259848" ignored="false" />
+    <file path="/Dummy.txt" changelist="5d109c6e-c5e3-49cc-8c6c-ea8ed96ec2f2" time="1392742643895" ignored="false" />
+    <file path="/index.html" changelist="5d109c6e-c5e3-49cc-8c6c-ea8ed96ec2f2" time="1392756082106" ignored="false" />
+    <file path="$PROJECT_DIR$/../rvms/app/backend/composer.json" changelist="5d109c6e-c5e3-49cc-8c6c-ea8ed96ec2f2" time="1392741893170" ignored="false" />
+    <file path="$PROJECT_DIR$/../rvms/.gitignore" changelist="5d109c6e-c5e3-49cc-8c6c-ea8ed96ec2f2" time="1392741988813" ignored="false" />
+    <file path="/.gitignore" changelist="5d109c6e-c5e3-49cc-8c6c-ea8ed96ec2f2" time="1392741988813" ignored="false" />
+    <file path="$PROJECT_DIR$/../rvms/app/backend/dispatch.php" changelist="5d109c6e-c5e3-49cc-8c6c-ea8ed96ec2f2" time="1392742100547" ignored="false" />
+    <file path="/dispatch.php" changelist="5d109c6e-c5e3-49cc-8c6c-ea8ed96ec2f2" time="1392742087203" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,12 +37,13 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="14" selection-start="1473" selection-end="1473" vertical-scroll-proportion="0.13513513">
+            <state line="44" column="80" selection-start="1819" selection-end="1819" vertical-scroll-proportion="0.36036035">
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#3;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#4;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#5;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -396,12 +400,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="14" selection-start="1473" selection-end="1473" vertical-scroll-proportion="0.13513513">
+        <state line="44" column="80" selection-start="1819" selection-end="1819" vertical-scroll-proportion="0.36036035">
           <folding>
             <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#3;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#4;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#5;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
